@@ -1,8 +1,7 @@
 <h1>Responsive Portfolio</h1>
 <h2>John Manouse</h2>
 <p>I created a password generator that will randomly generate a password, based on the criteria 
-   input answer, into each prompt once the<br> 
-   "Generate Password" button is clicked. The password will populate the form field on the screen.</p>
+   input answer, into each prompt once the "Generate Password" button is clicked. The password will populate the form field on the screen.</p>
  <hr>
 <h2>Random Password Generator</h2>
 <ul>
