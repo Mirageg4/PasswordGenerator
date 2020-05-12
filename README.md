@@ -17,7 +17,7 @@
 <p>Live Link: <a href="https://mirageg4.github.io/PasswordGenerator/index.html">Random Password Generator</a></p>
 <p>Github: <a href="https://github.com/Mirageg4/PasswordGenerator">Random Password Generator</a></p>
 <hr>
-<p>Screenshot</p>
+![image](https://user-images.githubusercontent.com/59633725/81703669-e63d1c00-943a-11ea-8d22-9ef90630113b.png)
 <hr>
 <p>License: Project is licensed under the MIT License. 
 See <a href ="LICENSE.md">LICENSE</a> file for details.
